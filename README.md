@@ -4,7 +4,7 @@ WWT Hackathon 2020 - 1st Place Prize!
 ## Winners Winners Chicken Dinners
 ![Dan & Dennis](https://github.com/DennisFaucher/hackathon2020/blob/main/DnD.png)
 
-## Code FLow
+## Code Flow
 ![Code Flow](https://github.com/DennisFaucher/hackathon2020/blob/main/Flow.png)
 
 ## Creating the PostgreSQL Tables
