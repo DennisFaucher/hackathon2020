@@ -1,0 +1,1 @@
+CREATE TABLE innovation.ne_nj_tbl(quote_number VARCHAR(8), ext_rev DECIMAL(10,2), discount DECIMAL(3,2), gp DECIMAL(10,2), gp_perc DECIMAL(3,2), manuf VARCHAR(50), pnl VARCHAR(50), customer VARCHAR(100), vendor VARCHAR(50));
