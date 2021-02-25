@@ -1,0 +1,1 @@
+CREATE TABLE innovation.services(IR VARCHAR(20), Revenue DECIMAL(10,2), Cost DECIMAL(10,2), Profit DECIMAL(10,2), Margin DECIMAL(10,2), Hours DECIMAL(10,0), Rate DECIMAL(10,2), Practice VARCHAR(50), Format VARCHAR(50), Account VARCHAR(100), Opportunity VARCHAR(100), Organization VARCHAR(100));
