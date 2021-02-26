@@ -7,7 +7,7 @@ WWT Hackathon 2020 - 1st Place Prize!
 ## Code Flow
 ![Code Flow](https://github.com/DennisFaucher/hackathon2020/blob/main/Flow.png)
 
-## Creating the PostgreSQL Tables
+## Creating the MySQL Tables
 
 ### Quotes
 ````[SQL]
